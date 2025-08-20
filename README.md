@@ -1,4 +1,2 @@
 # E-Commerce-Website
-This is just a basic Creation of a E-Commerce website which shows the front end of website using HTML and CSS.
-Put all the html files CSS files in one folder and also extract the img folder in the same folder where the html files are there. 
-THANKS FOR VISITING
+A simple front-end e-commerce website built using HTML, CSS, and JavaScript. This project demonstrates the layout and design of an online store, including pages for products, cart, blog, shop, and contact information. All HTML, CSS, and image assets are organized for easy setup just extract the img folder and keep it in the same directory as the HTML files.
